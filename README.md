@@ -42,36 +42,19 @@ Domain              -> Avionics, Flight Warning, defence and electronics
 
 ---
 
-## 🏆 Featured Achievements
-
-### 🚀 CNES - Generation ISS Project
-**Designed and prepared scientific experiment for International Space Station**
-- Led reliability analysis and constraint studies for space mission protocols
-- Coordinated multidisciplinary team for experimental engineering
-- Contributed to device reliability and technical presentation
-
-### 🏥 AI Clinical Decision Support
-**Built ML prototype for patient anomaly detection with 95% accuracy**
-- Developed deep learning model for functional diagnosis support
-- Created personalized physiotherapy recommendation system
-- Achieved 95% anomaly detection accuracy on patient data
-
-### 🛡️ Aerospace RAMS Engineering
-**Contributed to EGNOS V2 system safety analyses at APSYS/Airbus**
-- Performed reliability, availability, maintainability and safety studies
-- Participated in technical reviews and system validation documentation
-- Worked on critical satellite navigation system safety
-
----
-
 ## What I build
 
 | | Focus | Outcome |
 |:---:|---|---|
-| **01** | **Intelligent document systems** | Process 50,000+ technical documents with 95% accuracy, reducing analysis time by 70% using OCR, RAG and AI agents. |
-| **02** | **Production-oriented AI** | Deploy RAG systems serving 500+ engineers daily with APIs, containers, model tracking and cloud-ready delivery. |
-| **03** | **Complex system models** | Structure requirements across engineering lifecycle with MBSE, SysML and traceability matrices. |
-| **04** | **Technical data platforms** | Process 10M+ sensor data points monthly for distributed analytics and decision support. |
+| **01** | **Intelligent document systems** | Turn technical documents into searchable, traceable knowledge with OCR, RAG and AI agents. |
+| **02** | **Complex system engineering** | Structure requirements, architecture and validation evidence with MBSE, SysML and IVVQ. |
+| **03** | **Production-oriented AI** | Move from prototypes to APIs, containers, model tracking, CI/CD and cloud-ready delivery. |
+
+## Currently working on
+
+- Avionics Flight Warning analysis and engineering at **AKKODIS x ATR**.
+- Building deeper expertise in **RAG, AI agents and document intelligence**.
+- Strengthening **Git CLI and collaborative development workflows** through local exercises.
 
 ---
 
@@ -99,28 +82,6 @@ flowchart LR
     style G fill:#0d1117,stroke:#7c3aed,color:#ffffff
     style H fill:#0d1117,stroke:#00c853,color:#ffffff
     style I fill:#00c853,stroke:#00e5ff,color:#000000
-```
-
----
-
-## 💻 Code Highlights
-
-### RAG Architecture Pattern
-```python
-# Document Processing Pipeline
-documents = load_technical_docs()
-chunks = split_documents(documents)
-embeddings = create_embeddings(chunks)
-vector_store = FAISS.from_embeddings(embeddings)
-retriever = vector_store.as_retriever()
-```
-
-### MBSE Requirements Traceability
-```python
-# SysML to Code Generation
-requirements = parse_sysml_requirements()
-traceability = build_traceability_matrix(requirements)
-validation = run_ivvq_tests(traceability)
 ```
 
 ---
@@ -168,13 +129,13 @@ validation = run_ivvq_tests(traceability)
 
 ### 🤖 AI & GenAI Projects
 
-#### Enterprise RAG & AI Agent Platform
-Document intelligence pipeline combining ingestion, chunking, embeddings, vector retrieval, LLM orchestration and API serving for technical knowledge. **Serving 500+ engineers daily with 95% accuracy.**
+#### Enterprise RAG & AI Agent Platform — In progress
+Document intelligence pipeline combining ingestion, chunking, embeddings, vector retrieval, LLM orchestration and API serving for technical knowledge.
 
 `Python` `Hugging Face` `LangChain` `FAISS / Chroma` `FastAPI` `Docker` `CI/CD`
 
 #### AI Clinical Decision Support
-Machine Learning prototype for anomaly detection, functional diagnosis support and personalised physiotherapy recommendations. **95% anomaly detection accuracy on patient data.**
+Machine Learning prototype for anomaly detection, functional diagnosis support and personalised physiotherapy recommendations.
 
 `Machine Learning` `Deep Learning` `Anomaly Detection` `Recommendation`
 
@@ -191,8 +152,8 @@ Machine Learning prototype for anomaly detection, functional diagnosis support a
 
 ### 🔧 Engineering Projects
 
-#### Predictive Maintenance & Big Data Platform
-Cloud-ready architecture for distributed sensor processing, experiment tracking, model serving and operational reporting. **Processing 10M+ sensor data points monthly.**
+#### Predictive Maintenance & Big Data Platform — In progress
+Cloud-ready architecture for distributed sensor processing, experiment tracking, model serving and operational reporting.
 
 `Spark` `PySpark` `Databricks` `MLflow` `Azure` `Power BI`
 
@@ -201,59 +162,17 @@ Cloud-ready architecture for distributed sensor processing, experiment tracking,
 
 ---
 
-## 🛤️ My Journey
-
-```text
-2020  DUT Mesures Physiques → IRAP Internship (Electronics)
-      ↓
-2022  CESI Engineering → Continental (PCB Testing)  
-      ↓
-2023  IA School Master → ALTEN (MBSE & AI)
-      ↓
-2026  AKKODIS → Naval Group (IVVQ) → ATR (Flight Warning)
-      ↓
-NOW   AI & Systems Engineer at AKKODIS x ATR
-```
-
----
-
 ## 🎓 Education
 
-### Master AI & Big Data (2023-2025)
-**IA School Toulouse** - Apprenticeship
-- Specialization: R, Python, SQL, Power BI, Data Visualization
-- Focus: Machine Learning, Deep Learning, NLP, RAG
-- Double competence: Data Science & Systems Engineering
-
-### Engineering Curriculum (2022-2023)  
-**CESI Toulouse** - 1-year apprenticeship
-- Embedded Electrical & Electronic Systems
-- Focus: Systems engineering and practical applications
-
-### DUT Physical Measurements (2018-2020)
-**IUT Paul Sabatier Toulouse**
-- Physics, electronics, measurements
-- Scientific instrumentation and data analysis
-
-### Scientific Baccalaureate (2015-2018)
-**Lycée Saint-Exupéry**
-- Science specialization with honors
+- **Master AI & Big Data**, IA School Toulouse — 2023-2025
+- **Engineering curriculum, Embedded Electrical & Electronic Systems**, CESI Toulouse — 2022-2023
+- Earlier scientific foundation in physical measurements and electronics.
 
 ---
 
 ## 💡 What Drives Me
 
-### 🌌 **Space Exploration**
-Long-standing passion for astrophysics and space missions. Contributed to CNES ISS project for International Space Station experiments.
-
-### 🧠 **AI + Engineering**
-Believe in combining AI speed with systems discipline for reliable intelligent systems. The future belongs to those who can bridge both worlds.
-
-### 🚀 **Innovation**
-Focus on building solutions that bridge the gap between experimentation and production. Transform complex data into actionable engineering decisions.
-
-### 🎯 **Mission-Critical Systems**
-Passionate about applying AI to aerospace, defence and safety-critical systems where reliability matters most.
+Driven by space exploration and by the challenge of combining AI speed with systems discipline to build reliable technology for demanding environments.
 
 ---
 
@@ -288,8 +207,6 @@ Passionate about applying AI to aerospace, defence and safety-critical systems w
 
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amrid-lab&theme=tokyonight)
 ![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amrid-lab&theme=tokyonight)
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amrid-lab&bg_color=0D1117&color=00E5FF&line=00C853&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
