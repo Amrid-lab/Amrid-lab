@@ -129,8 +129,8 @@ flowchart LR
 
 ### 🤖 AI & GenAI Projects
 
-#### Enterprise RAG & AI Agent Platform — In progress
-Document intelligence pipeline combining ingestion, chunking, embeddings, vector retrieval, LLM orchestration and API serving for technical knowledge.
+#### [Engineering RAG Platform](https://github.com/Amrid-lab/engineering-rag-platform)
+A tested RAG foundation for engineering documents with TF-IDF retrieval, cosine ranking, context construction, FastAPI, Docker and GitHub Actions.
 
 `Python` `Hugging Face` `LangChain` `FAISS / Chroma` `FastAPI` `Docker` `CI/CD`
 
